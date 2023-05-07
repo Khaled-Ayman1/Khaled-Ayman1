@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center">Computer Science major student, aspiring to establish a professional career in Software Application & Network Security.</h3>
+<h3 align="center">Computer Science student, Establishing a career in Application & Network Security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled-ayman1&label=Profile%20views&color=0e75b6&style=flat" alt="khaled-ayman1" /> </p>
 
